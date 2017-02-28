@@ -1,8 +1,9 @@
 name: "my-website"
 navbar:
-  title: "Riding on the Bus"
+  title: "List of Officer shootings"
   left:
-    - text: "Home of the Bus"
+    - text: "Home of the Officer Shootings"
       href: index.html
-    - text: "About the Bus"
+    - text: "About Officer Shootings"
       href: about.html
+      
