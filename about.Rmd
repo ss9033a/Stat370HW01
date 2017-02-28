@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "About This Bus"
 ---
 
-While I have had a huge learning curve thus far in this class, I am enjoying learning the basics of coding.  I have already seen the usefulness of coding and would like to be able to independently use it by the end of this class to use for future classes and possibly jobs.  While it has been challenging and frustrating at times it has been very interesting and I look forward to expanding my knowledge of coding.
+While I have had a huge learning curve thus far in this class, I am enjoying learning the basics of coding.  I have already seen the usefulness of coding and would like to be able to independently use it by the end of this class to use for future classes and possibly jobs.
